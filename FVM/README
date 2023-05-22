@@ -1,8 +1,10 @@
+-In the Ex-* folders are included the computational
+meshes needed to perform the class exsercises.
+
 -The following functions:
 readOpenFoamMesh.m  
 wrtfld.m
 are required to import mesh for FVM exsercises
 abd to write the solutions in OpenFOAM format.
 
--In the Ex-* folders are included the computational
-meshes needed to perform the class exsercises.
+
